@@ -2,7 +2,7 @@
 
 ## Selenium WebDriver
 
-This repository contains my Selenium WebDriver programs developed using Java. The purpose of this project is to different web automation concepts and improve my automation testing skills.
+This repository contains my Selenium WebDriver programs developed using Java. The purpose of this project automating different web automation concepts and improve my automation testing skills.
 
 ## Technologies Used
 
